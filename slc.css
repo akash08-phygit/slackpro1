@@ -6,7 +6,8 @@
     border: 1px solid black;
     margin: 0px 10px 20px 10px ;
     display: flex;
-    justify-content: space-between;
+    
+    
 }
 
 .image-container{
@@ -22,12 +23,29 @@ img{
 }
 .left-container{
     display: flex;
+    
+    
+}
+ ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  li {
+    display: inline-block;
+    margin-right: 10px; /* Adjust spacing between list items */
 }
 
-.line{
-    display: flex;
-}
 
 .right-container{
 display: flex;
+
+}
+.sear{
+    display: flex;
+    
+}
+.butt{
+   
+    
 }
